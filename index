@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Datenschutzerklärung</title>
+</head>
+<body>
+  <h1>Datenschutzerklärung</h1>
+  <p>Dies ist ein privates Smart-Home-Projekt. Es werden keine personenbezogenen Daten gespeichert oder verarbeitet. Die Steuerung erfolgt ausschließlich lokal über Home Assistant.</p>
+  <p>Kontakt: jan.benischek@gmail.com</p>
+</body>
+</html>
